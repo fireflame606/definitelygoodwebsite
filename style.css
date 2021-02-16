@@ -7,6 +7,17 @@ header {
 body {
     background-image: linear-gradient(#d60270, #9b4f96, #0038a8);
 }
+
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 body a{
     color: black;
 }
