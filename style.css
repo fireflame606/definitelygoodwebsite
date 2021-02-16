@@ -7,11 +7,3 @@ header {
 body {
     background-image: linear-gradient(#d60270, #9b4f96, #0038a8);
 }
-body a{
-    color: black;
-}
-
-}
-.active{
-    background-color: #00b300;
-}
