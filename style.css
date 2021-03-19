@@ -19,7 +19,6 @@
 .animate{
 	animation: jump 0.3s linear;
 }
-.
 @keyframes jump{
 	0%{top: 150px;}
 	30%{top: 100px;}
