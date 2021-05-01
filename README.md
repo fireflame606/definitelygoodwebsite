@@ -1,2 +1,2 @@
-# personal-website
-website to do whatever with
+# html is weird
+website for info or something
